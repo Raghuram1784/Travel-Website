@@ -9,12 +9,9 @@ This project is a **fully responsive Travel Website** developed using **HTML** a
 - **User-Friendly Navigation**: Easy-to-use navigation to explore destinations and services effortlessly.  
 
 ## Application Screenshots  
-- **Travel-Website Home Page**  
-- **Travel-Website Destinations Section**  
-- **Travel-Website Gallery**  
-- **Travel-Website Contact Us Page**  
+ - ![Travel-1](Travel-Website/Application-Screenshots/Travel-1.png)
 
-*(Include actual screenshots of the website for better representation.)*  
+
 
 ## Usage  
 To explore the Travel Website:  
