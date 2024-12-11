@@ -14,6 +14,7 @@ This project is a **fully responsive Travel Website** developed using **HTML** a
  - ![Travel-1](Travel-Website/Application-Screenshots/Travel-3.png)
  - ![Travel-1](Travel-Website/Application-Screenshots/Travel-4.png)
  - ![Travel-1](Travel-Website/Application-Screenshots/Travel-5.png)
+ - ![Travel-1](Travel-Website/Application-Screenshots/Travel-6.png)
 
 
 
