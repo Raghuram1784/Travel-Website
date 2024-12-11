@@ -16,8 +16,6 @@ This project is a **fully responsive Travel Website** developed using **HTML** a
  - ![Travel-1](Travel-Website/Application-Screenshots/Travel-5.png)
  - ![Travel-1](Travel-Website/Application-Screenshots/Travel-6.png)
 
-
-
 ## Usage  
 To explore the Travel Website:  
 1. Open the `index.html` file in any web browser.  
@@ -25,5 +23,5 @@ To explore the Travel Website:
 
 ## Installation  
 There is no complex installation process involved. You can:  
-1. Clone the repository from GitHub:  
+1. Clone the repository from GitHub
 2. Open the index.html file directly in your preferred web browser.
