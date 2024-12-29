@@ -1,7 +1,7 @@
 # Travel-Website 
 
 ## Description  
-This project is a **fully responsive Travel Website** developed using **HTML** and **CSS**. It showcases a modern design that highlights various travel destinations and provides an intuitive browsing experience for users. The website is created to inspire travel enthusiasts with a visually appealing and user-friendly interface.  
+This project is a **fully responsive Travel Website** developed using **HTML** and **CSS**. It showcases a modern design that highlights **various travel destinations** and provides an intuitive browsing experience for users. The website is created to inspire travel enthusiasts with a visually appealing and user-friendly interface.  
 
 ## Special Features  
 - **Responsive Design**: The website is optimized for all devices, ensuring a seamless browsing experience on desktops, tablets, and smartphones.  
