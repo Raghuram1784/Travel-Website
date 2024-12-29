@@ -19,7 +19,7 @@ This project is a **fully responsive Travel Website** developed using **HTML** a
 ## Usage  
 To explore the Travel Website:  
 1. Open the `index.html` file in any web browser.  
-2. No additional setups or installations are required, making it straightforward for users to view the website and its features.  
+2. No additional setups or installations are required, making it **straightforward for users** to view the website and its features.  
 
 ## Installation  
 There is no complex installation process involved. You can:  
